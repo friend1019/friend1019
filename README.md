@@ -25,12 +25,19 @@
 
 ## Main Projects
 
+### 한서메이트
+**캠퍼스 친구 찾기 및 그룹 매칭 iOS, 안드로이드 앱**
+- Role: App Developer
+- Tech: `React Native` `Expo`
+- Description: 캠퍼스 정보, 캠퍼스 맵, 시간표 등 학우들의 캠퍼스 생활의 질을 높이는 학교 앱
+- Status: 26.09 ~ 진행 중, 26.11 기준 총 다운로드 수 1000명
+
 ### AirConnect
 **캠퍼스 친구 찾기 및 그룹 매칭 iOS 앱**
 - Role: iOS Developer
 - Tech: `SwiftUI` `FCM-APNs` `In-App Purchase`
-- Description: 캠퍼스 안에서 새로운 친구를 만들고, 모임과 과팅 매칭까지 더 쉽게 연결될 수 있도록 돕는 서비스를 만들고 있습니다.
-- Status: 출시 준비 중
+- Description: 캠퍼스 안에서 새로운 친구를 만들고, 모임과 과팅 매칭까지 더 쉽게 연결될 수 있도록 돕는 앱
+- Status: 26.09 ~ 26.11 운영, 총 다운로드 수 700명, 한달 최고 매출 600달러 달성
 
 ### 너랑나랑
 **한서대학교 축제 특별 인연 매칭 웹앱**
